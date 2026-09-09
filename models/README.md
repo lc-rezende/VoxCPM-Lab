@@ -1,0 +1,1 @@
+From inside this folder, run: `hf download openbmb/VoxCPM2 --local-dir ./pretrained_models/VoxCPM2`
